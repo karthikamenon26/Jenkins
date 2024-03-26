@@ -1,4 +1,4 @@
-package obsqura1.mavenproject;
+package test;
 
 /**
  * Hello world!
